@@ -8,7 +8,7 @@ Currently it supports IOS, Android, laptop, and Web. More document will be soon 
 npm run build
 npm run serve-electron
 
-### Run the app for Web using
+### Run the App for Web using
 
 npm run build
 npm run serve-web
