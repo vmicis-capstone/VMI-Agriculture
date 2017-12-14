@@ -14,8 +14,7 @@ export default function () {
 
       <Screen />
       <Formulae />
-        <Slick/>
-
+      <Slick/>
 
     </div>
   );
