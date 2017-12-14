@@ -76,7 +76,11 @@
     "react-slick":"latest",
     "react-zmage":"latest",
     "react-background-slideshow":"latest",
-    "react-image-gallery":"latest"
+    "react-image-gallery":"latest",
+    "react-tabs":"latest",
+    "react-google-maps":"latest",
+    "google-map-react":"latest",
+    "babel-preset-stage-0":"latest"
   },
   "devDependencies": {
     "babel": "^6.5.2",
