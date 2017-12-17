@@ -15,8 +15,10 @@ export default function (props, state) {
 
 var styles = StyleSheet.create({
   screen: {
-    color: '#190d08',
+    color: '#e3b885',
     fontSize: 70,
-    fontWeight: '200'
+    fontWeight: '200',
+    text-align: center
   }
+
 });

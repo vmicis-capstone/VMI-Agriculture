@@ -8,17 +8,17 @@ html, body {
   background: blue;
 }
 .screen {
-  background-color: #68cef2;
+  background-color: #e3b885;
   color: #190d08;
   font-size: 50px;
-  padding: 30px 10px;
-  text-align: right;
+  padding: 5px 5px;
+  text-align: center;
   font-weight: lighter;
 }
 
 .formulae {
   background-color: #4c4c4c;
-  padding: 20px 10px;
+  padding: 5px 5px;
   text-align: right;
   font-weight: lighter;
   min-height: 18px;
@@ -33,26 +33,7 @@ html, body {
   border-radius: 12px;
   margin: 0 3px;
 }
-.group.divide {
-  background-color: #cb7dc9;
-}
-.group.substract {
-  background-color: #fcb064;
-}
-.group.add {
-  background-color: #fb96cf;
-}
-.group.multiply {
-  background-color: #68cef1;
-}
 
-.keyboard {
-  height: 300px;
-}
-.keyboard-row {
-  display: table;
-  width: 100%;
-}
 .key {
   display: table-cell;
   vertical-align: middle;
@@ -65,44 +46,6 @@ html, body {
   -o-user-select: none;
   user-select: none;
   transition: all 0.2s;
-}
-.key-number {
-  border: 1px solid #f8f8f8;
-  width: 33%;
-  color: #919191;
-}
-
-.key-operator {
-  width: 25%;
-  color: white;
-  padding: 20px 0;
-}
-.operator {
-  padding-top: 8px;
-  padding-bottom: 8px;
-  border-radius: 20px;
-  height: 60px;
-  display: inline;
-}
-.operator.divide {
-  background-color: #cb7dc9;
-  padding-left: 12px;
-  padding-right: 12px;
-}
-.operator.substract {
-  background-color: #fcb064;
-  padding-left: 14px;
-  padding-right: 14px;
-}
-.operator.add {
-  background-color: #fb96cf;
-  padding-left: 12px;
-  padding-right: 12px;
-}
-.operator.multiply {
-  background-color: #68cef1;
-  padding-left: 13px;
-  padding-right: 13px;
 }
 
 .key-action {

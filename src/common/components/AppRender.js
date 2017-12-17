@@ -6,6 +6,7 @@ import Formulae from './Formulae';
 import Keyboard from './Keyboard';
 import Slick from './Slick';
 import SimpleMap from './SimpleMap';
+import Home from './Home';
 import { Tab, Tabs, TabList, TabPanel } from 'react-tabs';
 //import SlickStandalone from './SlickStandalone';
 //import { GoogleMap, Marker } from "react-google-maps"
@@ -20,9 +21,13 @@ export default function () {
 
     <Tabs>
        <TabList>
+         <Tab>Home </Tab>
          <Tab>Drone Map</Tab>
          <Tab>Drone Pictures</Tab>
        </TabList>
+       <TabPanel>
+       <Home/>
+       </TabPanel>
        <TabPanel>
           <div style={{width: '100%', height: '400px'}}>
            <SimpleMap/>

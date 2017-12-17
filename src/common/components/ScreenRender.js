@@ -5,7 +5,7 @@ import React from 'react';
 export default function (props, state) {
   return (
     <div className='screen'>
-      <p><b>VMI Agriculture Tool</b></p>
+      <p><b>VMI Crop Scanner</b></p>
     </div>
   );
 }
