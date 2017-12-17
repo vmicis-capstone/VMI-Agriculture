@@ -6,19 +6,19 @@ import ImageGallery from 'react-image-gallery';
     const images2 = [
          {
            original: 'https://i.imgur.com/IffmWDM.jpg',
-           thumbnail: 'http://lorempixel.com/250/150/nature/1/',
+           thumbnail: 'https://i.imgur.com/IffmWDM.jpg',
          },
          {
            original: 'https://i.imgur.com/e6MS6Ki.jpg',
-           thumbnail: 'http://lorempixel.com/250/150/nature/2/'
+           thumbnail: 'https://i.imgur.com/e6MS6Ki.jpg'
          },
          {
            original: 'https://i.imgur.com/HRiN6pM.jpg',
-           thumbnail: 'http://lorempixel.com/250/150/nature/3/'
+           thumbnail: 'https://i.imgur.com/HRiN6pM.jpg'
          },
          {
-           original: 'https://i.imgur.com/HRiN6pM.jpg',
-           thumbnail: 'http://lorempixel.com/250/150/nature/3/'
+           original: 'https://i.imgur.com/oKy4wlL.jpg',
+           thumbnail: 'https://i.imgur.com/oKy4wlL.jpg'
          }
        ]
 

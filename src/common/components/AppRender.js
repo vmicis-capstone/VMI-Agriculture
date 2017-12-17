@@ -24,12 +24,12 @@ export default function () {
          <Tab>Drone Pictures</Tab>
        </TabList>
        <TabPanel>
-       <div style={{width: '100%', height: '400px'}}>
-    <SimpleMap/>
-   </div>
+          <div style={{width: '100%', height: '400px'}}>
+           <SimpleMap/>
+          </div>
        </TabPanel>
        <TabPanel>
-        <Slick/>
+          <Slick/>
        </TabPanel>
      </Tabs>
 
