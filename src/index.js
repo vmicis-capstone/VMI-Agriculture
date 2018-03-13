@@ -9,7 +9,8 @@ import { Router, Route, hashHistory } from 'react-router';
 require('normalize.css');
 require('./styles/main.css');
 require('../node_modules/react-image-gallery/styles/css/image-gallery-no-icon.css');
-require('../node_modules/react-tabs/style/react-tabs.css')
+require('../node_modules/react-tabs/style/react-tabs.css');
+
 var content = document.getElementById('content');
 
 ReactDOM.render((
