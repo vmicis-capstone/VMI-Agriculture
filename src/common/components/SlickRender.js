@@ -5,20 +5,56 @@ import ImageGallery from 'react-image-gallery';
 
     const images2 = [
          {
-           original: 'https://i.imgur.com/IffmWDM.jpg',
-           thumbnail: 'https://i.imgur.com/IffmWDM.jpg',
+           original: 'https://i.imgur.com/Z1znc16.jpg',
+           thumbnail: 'https://i.imgur.com/Z1znc16.jpg',
          },
          {
-           original: 'https://i.imgur.com/e6MS6Ki.jpg',
-           thumbnail: 'https://i.imgur.com/e6MS6Ki.jpg'
+           original: 'https://i.imgur.com/gMVtJyu.png',
+           thumbnail: 'https://i.imgur.com/gMVtJyu.png'
          },
          {
-           original: 'https://i.imgur.com/HRiN6pM.jpg',
-           thumbnail: 'https://i.imgur.com/HRiN6pM.jpg'
+           original: 'https://i.imgur.com/eJkai9V.png',
+           thumbnail: 'https://i.imgur.com/eJkai9V.png'
          },
          {
-           original: 'https://i.imgur.com/oKy4wlL.jpg',
-           thumbnail: 'https://i.imgur.com/oKy4wlL.jpg'
+           original: 'https://i.imgur.com/8bS1FaI.png',
+           thumbnail: 'https://i.imgur.com/8bS1FaI.png'
+         },
+         {
+           original: 'https://i.imgur.com/S6JBvwj.png',
+           thumbnail: 'https://i.imgur.com/S6JBvwj.png'
+         },
+         {
+           original: 'https://i.imgur.com/UcU0Tww.png',
+           thumbnail: 'https://i.imgur.com/UcU0Tww.png'
+         },
+         {
+           original: 'https://i.imgur.com/Zdx2VqW.jpg',
+           thumbnail: 'https://i.imgur.com/Zdx2VqW.jpg'
+         },
+         {
+           original: 'https://i.imgur.com/Y3oOa8E.png',
+           thumbnail: 'https://i.imgur.com/Y3oOa8E.png'
+         },
+         {
+           original: 'https://i.imgur.com/7n8ofCX.jpg',
+           thumbnail: 'https://i.imgur.com/7n8ofCX.jpg'
+         },
+         {
+           original: 'https://i.imgur.com/Tfy9g2i.jpg',
+           thumbnail: 'https://i.imgur.com/Tfy9g2i.jpg'
+         },
+         {
+           original: 'https://i.imgur.com/Tfy9g2i.jpg',
+           thumbnail: 'https://i.imgur.com/Tfy9g2i.jpg'
+         },
+         {
+           original: 'https://i.imgur.com/iaA0tW6.png',
+           thumbnail: 'https://i.imgur.com/iaA0tW6.png'
+         },
+         {
+           original: 'https://i.imgur.com/0uVtAIW.png',
+           thumbnail: 'https://i.imgur.com/0uVtAIW.png'
          }
        ]
 
